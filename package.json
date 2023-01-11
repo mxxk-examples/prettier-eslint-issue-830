@@ -1,0 +1,10 @@
+{
+  "name": "js-prettier-eslint-format-quotes",
+  "version": "1.0.0",
+  "type": "module",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/eslint-parser": "^7.19.1",
+    "prettier-eslint-cli": "^7.1.0"
+  }
+}
